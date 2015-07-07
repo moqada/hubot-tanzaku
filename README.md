@@ -1,5 +1,5 @@
 # hubot-tanzaku
-[![Build Status][travis-image]][travis-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
 :tanabata_tree: TANZAKU generator for Hubot.
 
@@ -43,5 +43,9 @@ user1> hubot tanzaku K|BO|BO|
 
 - https://github.com/kjirou/tanzaku
 
+[npm-url]: https://badge.fury.io/js/hubot-tanzaku
+[npm-image]: https://badge.fury.io/js/hubot-tanzaku.svg
 [travis-url]: https://travis-ci.org/moqada/hubot-tanzaku
 [travis-image]: https://travis-ci.org/moqada/hubot-tanzaku.svg?branch=master
+[daviddm-url]: https://david-dm.org/moqada/hubot-tanzaku
+[daviddm-image]: https://david-dm.org/moqada/hubot-tanzaku.svg
