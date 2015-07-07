@@ -9,11 +9,7 @@ See [`src/scripts/tanzaku.coffee`](src/scripts/tanzaku.coffee) for full document
 
 In hubot project repo, run:
 
-`npm install git://github.com/moqada/hubot-tanzaku --save`
-
-or
-
-`npm install git://github.com/moqada/hubot-tanzaku#v{version} --save`
+`npm install hubot-tanzaku --save`
 
 Then add **hubot-tanzaku** to your `external-scripts.json`:
 
