@@ -1,0 +1,33 @@
+{
+  "name": "hubot-tanzaku",
+  "description": "tanzaku",
+  "version": "1.0.0",
+  "author": "moqada <moqada@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "tanzaku",
+    "tanabata"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moqada/hubot-tanzaku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moqada/hubot-tanzaku/issues"
+  },
+  "dependencies": {
+    "tanzaku": "^1.0.2"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "coffeelint": "^1.10.1",
+    "hubot": "^2.13.2"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "robot": "hubot",
+    "test": "coffeelint index.coffee src/**/*.coffee"
+  }
+}
