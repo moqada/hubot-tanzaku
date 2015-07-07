@@ -1,5 +1,5 @@
 # Description
-#   Generate TANSAKU
+#   Generate TANZAKU.
 #
 # Commands:
 #   hubot tanzaku <NEGAIGOTO> - Generate TANZAKU.
