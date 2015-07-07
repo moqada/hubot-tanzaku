@@ -1,6 +1,6 @@
 {
   "name": "hubot-tanzaku",
-  "description": "tanzaku",
+  "description": "TANZAKU generator for Hubot.",
   "version": "1.0.1",
   "author": "moqada <moqada@gmail.com>",
   "license": "MIT",
