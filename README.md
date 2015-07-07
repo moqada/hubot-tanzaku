@@ -1,5 +1,5 @@
 # hubot-tanzaku
-[![Build Status](https://travis-ci.org/moqada/hubot-tanzaku.svg?branch=master)](https://travis-ci.org/moqada/hubot-tanzaku)
+[![Build Status][travis-image]][travis-url]
 
 :tanabata_tree: TANZAKU generator for Hubot.
 
@@ -42,3 +42,6 @@ user1> hubot tanzaku K|BO|BO|
 ## Refs
 
 - https://github.com/kjirou/tanzaku
+
+[travis-url]: https://travis-ci.org/moqada/hubot-tanzaku
+[travis-image]: https://travis-ci.org/moqada/hubot-tanzaku.svg?branch=master
