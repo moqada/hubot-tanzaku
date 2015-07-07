@@ -1,8 +1,7 @@
 # hubot-tanzaku
 [![Build Status](https://travis-ci.org/moqada/hubot-tanzaku.svg?branch=master)](https://travis-ci.org/moqada/hubot-tanzaku)
 
-
-TANZAKU - The Japanese NEGAIGOTO Style -.
+:tanabata_tree: TANZAKU generator for Hubot.
 
 See [`src/scripts/tanzaku.coffee`](src/scripts/tanzaku.coffee) for full documentation.
 
