@@ -20,7 +20,7 @@ Then add **hubot-tanzaku** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1> hubot tanzaku K|BO|BO|
+user1> hubot tanzaku K-BO-BO-
 ┏┷┓
 ┃　┃
 ┃Ｋ┃
