@@ -1,4 +1,6 @@
 # hubot-tanzaku
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/moqada/hubot-tanzaku.svg)](https://greenkeeper.io/)
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
 :tanabata_tree: TANZAKU generator for Hubot.
