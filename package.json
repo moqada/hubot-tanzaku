@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "coffee-script": "^1.9.3",
-    "coffeelint": "^1.10.1",
+    "coffeelint": "^2.0.3",
     "hubot": "^2.13.2"
   },
   "main": "index.coffee",
